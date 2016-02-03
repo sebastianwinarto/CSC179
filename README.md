@@ -2,6 +2,10 @@
 
 This is the initial github checkin
 
+## Papers
+
+Paper 1:[Click Here](https://docs.google.com/document/d/14_gJPbd-5_4fF3MjoQcY88V_kxeYzv5LPZf-LrfPvmY/edit?usp=sharing)
+
 ## Schedules
 
 | - | M | T | W | TH | F |
