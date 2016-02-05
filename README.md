@@ -23,3 +23,11 @@ Available times:
 
 Evening times are also available (and probably preferred).
 
+## Contributors
+
+| Name      | Email                       |
+|:----------|:----------------------------|
+| Daniel    | danielmj@me.com             |
+| Kurt 	    | krtlarson@gmail.com         |
+| Sebastian | sebastianywinarto@gmail.com |
+| Suzanne   | sue.kharaka@gmail.com       |
