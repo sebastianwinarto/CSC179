@@ -1,6 +1,6 @@
 # Making Updates To Repo
 
-Hey all, I decided to add a quick how to on making updates to the Github repo.
+Hey all, I decided to add a quick how to on making updates to the Github repo. TEST
 
 ---
 
