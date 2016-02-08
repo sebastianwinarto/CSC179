@@ -1,6 +1,6 @@
 # CSC 179
 
-This is the initial github checkin
+This is th e initial github checkin
 
 ## Assignments
 
