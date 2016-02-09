@@ -7,7 +7,7 @@ This is th e initial github checkin
 | Title | Due Date | Link |
 |:------|:---------|:-----|
 | Paper: Cost of Quality | 2/10/16 | [Click Here](https://docs.google.com/document/d/14_gJPbd-5_4fF3MjoQcY88V_kxeYzv5LPZf-LrfPvmY/edit?usp=sharing) |
-| Project Proposal | 2/12/16 | none |
+| Project Proposal | 2/12/16 | [click here](https://docs.google.com/document/d/1-dSPMSWEyjwhsnQB_SfnWATSgi5yTWD6aX5-CBQ246g/edit?usp=docslist_api) |
 
 ## Schedules
 
