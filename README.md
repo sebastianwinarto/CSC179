@@ -1,13 +1,14 @@
 # CSC 179
 
-This is th e initial github checkin
+This is the initial github checkin
 
 ## Assignments
 
 | Title | Due Date | Link |
 |:------|:---------|:-----|
-| Paper: Cost of Quality | 2/10/16 | [Click Here](https://docs.google.com/document/d/14_gJPbd-5_4fF3MjoQcY88V_kxeYzv5LPZf-LrfPvmY/edit?usp=sharing) |
 | Project Proposal | 2/12/16 | [click here](https://docs.google.com/document/d/1-dSPMSWEyjwhsnQB_SfnWATSgi5yTWD6aX5-CBQ246g/edit?usp=docslist_api) |
+
+All papers, past and current, are visible at this [LINK](https://drive.google.com/drive/u/0/folders/0B01T4L-ATMLhVTl6b2pIdW1yTjA)
 
 ## Schedules
 
