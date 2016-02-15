@@ -6,7 +6,7 @@ This is the initial github checkin
 
 | Title | Due Date | Link |
 |:------|:---------|:-----|
-| Project Proposal | 2/12/16 | [click here](https://docs.google.com/document/d/1-dSPMSWEyjwhsnQB_SfnWATSgi5yTWD6aX5-CBQ246g/edit?usp=docslist_api) |
+| Black Box Testing | 3/2/16 | No Link Yet |
 
 All papers, past and current, are visible at this [LINK](https://drive.google.com/open?id=0B01T4L-ATMLhTWtRb2VZSzYwVzA)
 
