@@ -6,7 +6,8 @@ This is the initial github checkin
 
 | Title | Due Date | Link |
 |:------|:---------|:-----|
-| Black Box Testing | 3/2/16 | No Link Yet |
+| Black Box Testing Documentation | 3/2/16 | No Link Yet |
+| Black Box Testing Test Case | 3/2/16 | No Link Yet |
 
 All papers, past and current, are visible at this [LINK](https://drive.google.com/open?id=0B01T4L-ATMLhTWtRb2VZSzYwVzA)
 
