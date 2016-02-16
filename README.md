@@ -26,6 +26,10 @@ Available times:
 |:-:|:-:|:-:|:--:|:-:|
 | - | - | - | 9am-10am | - |
 
+| Title | Link |
+|:------|:-----|
+|Meeting Notes|No Link Yet|
+
 Evening times are also available (and probably preferred).
 
 ## Contributors
