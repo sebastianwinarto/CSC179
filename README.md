@@ -6,8 +6,8 @@ This is the initial github checkin
 
 | Title | Due Date | Link |
 |:------|:---------|:-----|
-| Black Box Testing Documentation | 3/2/16 | No Link Yet |
-| Black Box Testing Test Case | 3/2/16 | No Link Yet |
+| Black Box Testing Documentation | 3/2/16 | [LINK](https://docs.google.com/document/d/1JE2WWMhePn6xjyIHWKvOQk1YMGm8piHxVv8UtvVzCN0/edit?usp=sharing) |
+| Black Box Testing Test Case | 3/2/16 | [LINK](https://docs.google.com/spreadsheets/d/1qapHDJzlBOhdrTl3b-39HjwJZMkLwH-LFlCzZRopo40/edit?usp=sharing) |
 
 All papers, past and current, are visible at this [LINK](https://drive.google.com/open?id=0B01T4L-ATMLhTWtRb2VZSzYwVzA)
 
@@ -28,7 +28,7 @@ Available times:
 
 | Title | Link |
 |:------|:-----|
-|Meeting Notes|No Link Yet|
+|Meeting Notes|[LINK](https://docs.google.com/document/d/1HtCnqz3dh-6KqkMf8g6pW1zD0zlv-C0exdEdXWVLlow/edit?usp=sharing)|
 
 Evening times are also available (and probably preferred).
 
